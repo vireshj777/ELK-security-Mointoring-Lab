@@ -133,4 +133,4 @@ collection, host telemetry via Sysmon, and rule-based detection via YARA rather 
 reading about them. Next iteration closes the loop: raw detections → SIEM-visible alerts.
 
 
-Author: Munnaza Jamil — SOC Analyst Intern | GitHub | LinkedIn
+Author: VIRESH J — SOC Analyst | GitHub | LinkedIn
